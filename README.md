@@ -1,4 +1,5 @@
-# BA_data
+# Data for "The Effects of Social Policy on Autocratic Legitimation: An Analysis of Chávez's Venezuela"
+
 
 This repository includes the python scripts used to analyse the Latinobarometro survey data.
 
